@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Alexander <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batmankoff)](https://github.com/Batmankoff/github-readme-stats)
+<p align="center">My skills</p>
 
 
 <!--
